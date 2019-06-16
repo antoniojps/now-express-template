@@ -1,4 +1,4 @@
-# Serverless Now CLI API
+# Express Now CLI API
 
 Bootstrap a serveless express API project to deploy at now.
 
@@ -16,8 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone
 
 ```
-git clone https://github.com/antoniojps/now-serverless-template.git
-cd now-serverless-template
+git clone https://github.com/antoniojps/now-express-template.git
+cd now-express-template
 ```
 
 2. Start developing
